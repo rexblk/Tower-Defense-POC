@@ -4624,6 +4624,10 @@ Prefab:
       propertyPath: m_RootOrder
       value: 7
       objectReference: {fileID: 0}
+    - target: {fileID: 1399698712938144, guid: 2416c9d8eecf9ec46a2b1ee1cbb25349, type: 2}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 2416c9d8eecf9ec46a2b1ee1cbb25349, type: 2}
   m_IsPrefabParent: 0
@@ -15822,6 +15826,14 @@ Prefab:
     - target: {fileID: 1751569516930038, guid: 9e8b734105df06d408267040c02f95ce, type: 2}
       propertyPath: m_Name
       value: Ally Base
+      objectReference: {fileID: 0}
+    - target: {fileID: 1751569516930038, guid: 9e8b734105df06d408267040c02f95ce, type: 2}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967255
+      objectReference: {fileID: 0}
+    - target: {fileID: 1751569516930038, guid: 9e8b734105df06d408267040c02f95ce, type: 2}
+      propertyPath: m_NavMeshLayer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 9e8b734105df06d408267040c02f95ce, type: 2}
@@ -60199,6 +60211,10 @@ Prefab:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 98203e1703b42c043b60352fcb2bd665, type: 2}
+    - target: {fileID: 1751569516930038, guid: 9e8b734105df06d408267040c02f95ce, type: 2}
+      propertyPath: m_StaticEditorFlags
+      value: 40
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 9e8b734105df06d408267040c02f95ce, type: 2}
   m_IsPrefabParent: 0
